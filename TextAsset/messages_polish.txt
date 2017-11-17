@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Wczoraj",
     "key.settings.title": "Ustawienia",
     "key.settings.music": "Muzyka",
+    "key.settings.deviceAuthError": "Ze względów bezpieczeństwa proszę przywiązać konto do Google lub Facebook ",
     "key.settings.sounds": "Dzwięki",
     "key.settings.vibration": "Wibracja",
     "key.settings.batterySaver": "Tryb niskiego zużycia baterii",

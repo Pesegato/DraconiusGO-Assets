@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Tegnap",
     "key.settings.title": "Beállítások",
     "key.settings.music": "Zene",
+    "key.settings.deviceAuthError": "Voor Uw veiligheid koppel aub Uw account aan Google of Facebook",
     "key.settings.sounds": "Hangok",
     "key.settings.vibration": "Rezgés",
     "key.settings.batterySaver": "Energiamegtakarítás",

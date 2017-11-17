@@ -682,6 +682,7 @@
     "key.journal.yesterday": "昨日",
     "key.settings.title": "設定",
     "key.settings.music": "音楽",
+    "key.settings.deviceAuthError": "For safety reasons, please link your account to Google or Facebook",
     "key.settings.sounds": "効果音",
     "key.settings.vibration": "バイブレーション",
     "key.settings.batterySaver": "バッテリーの省エネ",

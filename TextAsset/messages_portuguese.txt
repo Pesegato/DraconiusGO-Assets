@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Ontem",
     "key.settings.title": "Configurações",
     "key.settings.music": "Música",
+    "key.settings.deviceAuthError": "For safety reasons, please link your account to Google or Facebook",
     "key.settings.sounds": "Sons",
     "key.settings.vibration": "Vibração",
     "key.settings.batterySaver": "Economia de bateria",

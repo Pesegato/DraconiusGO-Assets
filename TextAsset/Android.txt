@@ -101,7 +101,7 @@
   "MONSTER_WATER_9": "monster_water_9_76803dfc18be8878dbd543d5388d593a",
   "MONSTER_WIND_10": "monster_wind_10_6e8afb74f34fe4e326a93d3f55138d85",
   "MONSTER_WIND_11": "monster_wind_11_8a0ed31966de94b82820a4a1f696986c",
-  "MONSTER_WIND_12": "monster_wind_12_379a0a2cdcdf98df31979a7a135074ea",
+  "MONSTER_WIND_12": "monster_wind_12_24a4b2ca8e756aa6142df5d9aa1938ae",
   "MONSTER_WIND_13": "monster_wind_13_7f57e2e8c97e1b95255fa6ef422b1607",
   "MONSTER_WIND_14": "monster_wind_14_8c37348b6db870e924f39b62dfdec70f",
   "MONSTER_WIND_15": "monster_wind_15_928960f5cdaf6fad4cd5361fe64ec68e",

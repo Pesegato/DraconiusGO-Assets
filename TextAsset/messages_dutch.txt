@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Gisteren",
     "key.settings.title": "Instellingen",
     "key.settings.music": "Muziek",
+    "key.settings.deviceAuthError": "For safety reasons, please link your account to Google or Facebook",
     "key.settings.sounds": "Geluiden",
     "key.settings.vibration": "Trilling",
     "key.settings.batterySaver": "Batterij besparing",

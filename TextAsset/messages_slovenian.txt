@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Včeraj",
     "key.settings.title": "Nastavitve",
     "key.settings.music": "Glasba",
+    "key.settings.deviceAuthError": "For safety reasons, please link your account to Google or Facebook",
     "key.settings.sounds": "Zvoki",
     "key.settings.vibration": "Vibracija",
     "key.settings.batterySaver": "Ohranjanje energije",

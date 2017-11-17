@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Dün",
     "key.settings.title": "Ayarlar",
     "key.settings.music": "Müzik",
+    "key.settings.deviceAuthError": "Güvenlik amaçlarında hesabınızı Google veya Facebook'a bağlayınız.",
     "key.settings.sounds": "Ses",
     "key.settings.vibration": "Titreşim",
     "key.settings.batterySaver": "Enerji Tasarrufu",

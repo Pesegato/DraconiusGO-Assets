@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Вчера",
     "key.settings.title": "Настройки",
     "key.settings.music": "Музика",
+    "key.settings.deviceAuthError": "За сигурност свържете профила си към Google или Facebook",
     "key.settings.sounds": "Звуци",
     "key.settings.vibration": "Вибрация",
     "key.settings.batterySaver": "Икономия на енергия",

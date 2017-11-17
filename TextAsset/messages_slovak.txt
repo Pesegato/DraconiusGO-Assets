@@ -682,6 +682,7 @@
     "key.journal.yesterday": "Včera",
     "key.settings.title": "Nastavenia",
     "key.settings.music": "Hudba",
+    "key.settings.deviceAuthError": "Z bezpečnostných dôvodov pripojte svoj účet k Googlu alebo Facebooku",
     "key.settings.sounds": "Zvuky",
     "key.settings.vibration": "Vibrácia",
     "key.settings.batterySaver": "Úspora energie",
